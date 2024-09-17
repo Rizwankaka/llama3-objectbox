@@ -1,0 +1,31 @@
+{
+  "build": "h3bf8584_21",
+  "build_number": 21,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.40.33810"
+  ],
+  "extracted_package_dir": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_21",
+  "files": [],
+  "fn": "vs2015_runtime-14.40.33810-h3bf8584_21.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_21",
+    "type": 1
+  },
+  "md5": "b3f37db7b7ae1c22600fa26a63ed99b3",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\vs2015_runtime-14.40.33810-h3bf8584_21.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "472410455c381e406ec8c1d3e0342b48ee23122ef7ffb22a09d9763ca5df4d20",
+  "size": 17241,
+  "subdir": "win-64",
+  "timestamp": 1725984096000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.40.33810-h3bf8584_21.conda",
+  "version": "14.40.33810"
+}

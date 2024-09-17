@@ -1,0 +1,32 @@
+{
+  "build": "h8a93ad2_21",
+  "build_number": 21,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.40.33810"
+  ],
+  "extracted_package_dir": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\vc-14.3-h8a93ad2_21",
+  "files": [],
+  "fn": "vc-14.3-h8a93ad2_21.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\vc-14.3-h8a93ad2_21",
+    "type": 1
+  },
+  "md5": "e632a9b865d4b653aa656c9fb4f4817c",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\Tesla Laptops\\.conda\\pkgs\\vc-14.3-h8a93ad2_21.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f14f5238c2e2516e292af43d91df88f212d769b4853eb46d03291793dcf00da9",
+  "size": 17243,
+  "subdir": "win-64",
+  "timestamp": 1725984095000,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h8a93ad2_21.conda",
+  "version": "14.3"
+}
